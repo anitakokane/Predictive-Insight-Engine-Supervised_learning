@@ -2,6 +2,8 @@
 
 A machine learning project that predicts house prices from property features. It compares Simple Linear, Multiple Linear and Polynomial Regression, and studies Gradient Descent optimization, bias-variance and overfitting.
 
+## Project Video
+[Watch the project explanation here](https://drive.google.com/file/d/1yLV-bRXr-rgmvSePaC9uU59frOGSXw_p/view?usp=sharing)
 ## Dataset
 
 `RealEstate_HousePrice_Dataset_4200.csv` - 4,200 houses, no missing values.
